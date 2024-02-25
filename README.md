@@ -7,11 +7,11 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+[Live Report Link](https://www.novypro.com/project/business-insights-360-108)
 
 ## Tech stacks
 
-- SQL
+- MySQL
 - PowerBi Desktop
 - Excel
 - DAX language
@@ -20,7 +20,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 
 ## PowerBI techniques Learnt
 
-- What are all the questions should be asked before staring the project
+- all the questions should be asked before starting the project
 - Creating calculated columns
 - creating measure using DAX language
 - Data modeling
@@ -39,10 +39,21 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Collaboration, workspace, access permissions in PowerBi services
 - And more 😅
 
-## GitHub 
-
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
+## DAX Functions i Learned during this project
+- SUM
+- COUNT
+- MAX
+- MIN
+- CALCULATE
+- FILTER
+- RELATED
+- RELATEDTABLE
+- ALL
+- ALLEXCEPT
+- SELECTEDVALUE
+- SWITCH
+- DATEADD
+- FORMAT
 
 ## Business related terms
 
@@ -158,10 +169,10 @@ Fact table : It will have the data about the transactions
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
-- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
+- Following Good practices of data modeling is must. 
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+![Data model](https://github.com/devrajmuni143/Business-Insights-360/assets/100869651/53724e01-72ae-4ec1-a0ec-040359a787d2)
 
 ### Dashboard designing
 
@@ -180,39 +191,34 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-## Overall Report
+### Overall Report
+##Home Page
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
-
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Home page](https://github.com/devrajmuni143/Business-Insights-360/assets/100869651/6df6c12e-2b4f-43ee-aa93-393cfedc23d7)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finance View](https://github.com/devrajmuni143/Business-Insights-360/assets/100869651/fe2d81c5-b767-4c0f-88b8-dc89ff4a79ca)
+
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales View](https://github.com/devrajmuni143/Business-Insights-360/assets/100869651/755ca4f4-820f-497e-b610-b39eef3386a0)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing View](https://github.com/devrajmuni143/Business-Insights-360/assets/100869651/7ef8a2e5-5b74-44e1-83d0-41f2e04b19ab)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply Chain View](https://github.com/devrajmuni143/Business-Insights-360/assets/100869651/b0f841e9-591d-4bcc-a66c-e46c24433bdb)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive View](https://github.com/devrajmuni143/Business-Insights-360/assets/100869651/122687ee-47af-4ddb-abf9-a8b39045398a)
 
 ## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
-
+![Product View](https://github.com/devrajmuni143/Business-Insights-360/assets/100869651/5aca349f-8552-405c-a34c-bcbe550b9787)
 
 ## Project Outcome
 
